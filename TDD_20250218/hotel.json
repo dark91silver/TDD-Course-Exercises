@@ -1,0 +1,60 @@
+{
+    "101": [
+        {
+            "arrivo": "2025-02-18",
+            "partenza": "2025-02-20",
+            "nome": "mario",
+            "cognome": "rossi",
+            "cf": "abc123"
+        },
+        {
+            "arrivo": "2025-02-22",
+            "partenza": "2025-02-23",
+            "nome": "mario",
+            "cognome": "rossi",
+            "cf": "abc123"
+        }
+    ],
+    "102": [
+        {
+            "arrivo": "2025-02-19",
+            "partenza": "2025-02-20",
+            "nome": "mario",
+            "cognome": "rossi",
+            "cf": "abc123"
+        },
+        {
+            "arrivo": "2025-02-20",
+            "partenza": "2025-02-22",
+            "nome": "mario",
+            "cognome": "rossi",
+            "cf": "abc123"
+        }
+    ],
+    "201": [
+        {   
+            "arrivo": "2025-02-18",
+            "partenza": "2025-02-20",
+            "nome": "mario",
+            "cognome": "rossi",
+            "cf": "abc123"
+        },
+        {
+            "arrivo": "2025-02-22",
+            "partenza": "2025-02-23",
+            "nome": "mario",
+            "cognome": "rossi",
+            "cf": "abc123"
+        }
+    ],
+    "202": [
+        {
+            "arrivo": "2025-02-18",
+            "partenza": "2025-02-24",
+            "nome": "mario",
+            "cognome": "rossi",
+            "cf": "abc123"
+        }
+    ],
+    "203": []
+}
